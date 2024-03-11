@@ -1,7 +1,4 @@
-![example](https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif)]
-
-<h2> :relaxed: Hey! Nice to see you.</h2>
-
+ <h2>:relaxed: Hey! Nice to see you.</h2>
 <h3>👨‍💻 &nbsp; About Me</h3>
 
 - :frowning_man: &nbsp; Working as a Front_End developer
