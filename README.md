@@ -46,10 +46,6 @@
   <a href="https://t.me/Mehdi_madridista/">
     <img src="https://img.shields.io/badge/Telegram-@Mehdi_madridista-blue?style=flat&logo=telegram" />
   </a>
-  <a href="https://mahdi.leo2014@gmail.com/">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  
 </p>
 
 <br />
