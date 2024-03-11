@@ -2,7 +2,7 @@
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 
-- 🤔 &nbsp; Working as a Front_End developer
+- :frowning_man: &nbsp; Working as a Front_End developer
 - 🎓 &nbsp; Graduated in ICT
 - 💼 &nbsp; I daily Use : ![JavaScript](https://img.shields.io/badge/JavaScript-yellow),![Next.js](https://img.shields.io/badge/Next.js-purple),![HTML](https://img.shields.io/badge/HTML-red),![CSS](https://img.shields.io/badge/CSS-blue)
 - 🌱 &nbsp; Learning Next.js
