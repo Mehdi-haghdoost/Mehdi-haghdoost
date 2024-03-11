@@ -52,7 +52,7 @@
   <a href="https://t.me/Mehdi_madridista/">
     <img src="https://img.shields.io/badge/Telegram-@Mehdi_madridista-blue?style=flat&logo=telegram" />
   </a>
-   <a href="https://t.me/Mehdi_madridista/">
+   <a href="https://www.linkedin.com/in/mahdi-leo-463610100/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flate&logo=linkedin&logoColor=white" />
   </a>
 </p>
