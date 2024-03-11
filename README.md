@@ -40,14 +40,11 @@
 <h2>📞 &nbsp; Connct Me </h2>
 
 <p align="center">
-  <a href="https://sabzlearn.ir/">
-    <img src="https://img.shields.io/badge/Website-www.Sabzlearn.ir-blue?style=flat&logo=google-chrome" />
+  <a href="https://instagram.com/mehdii_1992/">
+    <img src="https://img.shields.io/badge/Instagram-@mehdii_1992-red?style=flat&logo=instagram" />
   </a>
-  <a href="https://instagram.com/rad_front/">
-    <img src="https://img.shields.io/badge/Instagram-@Rad_Front-red?style=flat&logo=instagram" />
-  </a>
-  <a href="https://t.me/aminkhoy78/">
-    <img src="https://img.shields.io/badge/Telegram-@AminKhoy78-blue?style=flat&logo=telegram" />
+  <a href="https://t.me/Mehdi_madridista/">
+    <img src="https://img.shields.io/badge/Telegram-@Mehdi_madridista-blue?style=flat&logo=telegram" />
   </a>
 </p>
 
