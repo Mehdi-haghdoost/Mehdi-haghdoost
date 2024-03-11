@@ -2,11 +2,11 @@
 
 <h3>👨‍💻 &nbsp; About Me</h3>
 
-- 🤔 &nbsp; Sabzlearn Javascript Courses Coach
-- 🎓 &nbsp; Student of IT Subject In University
-- 💼 &nbsp; I daily Use : ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-- 🌱 &nbsp; Learning Git & Github
-- ✍️ &nbsp; Coding And Drinking Coffee Are My Hobby :))
+- 🤔 &nbsp; Working as a Front_End developer
+- 🎓 &nbsp; Graduated in ICT
+- 💼 &nbsp; I daily Use : ![JavaScript](https://img.shields.io/badge/JavaScript-yellow),![Next.js](https://img.shields.io/badge/Next.js-purple),![HTML](https://img.shields.io/badge/HTML-red),![CSS](https://img.shields.io/badge/CSS-blue)
+- 🌱 &nbsp; Learning Next.js
+- ✍️ &nbsp; Coding, Drinking Coffee, Exercising And Reading Book Are My Hobby :))
 
 <h2>🔧 &nbsp; Tech Stack</h2>
 
