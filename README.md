@@ -25,6 +25,10 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+  ![Npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+  
+  
 - 🖥 &nbsp;
   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-XD)
 
@@ -47,6 +51,9 @@
   </a>
   <a href="https://t.me/Mehdi_madridista/">
     <img src="https://img.shields.io/badge/Telegram-@Mehdi_madridista-blue?style=flat&logo=telegram" />
+  </a>
+   <a href="https://t.me/Mehdi_madridista/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flate&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
