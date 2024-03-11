@@ -8,7 +8,7 @@
 - 🌱 &nbsp; Learning Next.js
 - ✍️ &nbsp; Coding, Drinking Coffee, Exercising And Reading Book Are My Hobby :))
 
-<h2>🔧 &nbsp; Tech Stack</h2>
+<h2>🔧 &nbsp; Things I code with</h2>
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
